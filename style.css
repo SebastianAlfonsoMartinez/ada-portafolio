@@ -105,4 +105,9 @@ button {
     padding: 20px;
     text-align: center;
 }
+div{
+    position: relative;
+    left: 44%;
+}
+
 
